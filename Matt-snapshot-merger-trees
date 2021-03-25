@@ -1,0 +1,11 @@
+File location:
+/fred/oz009/mwilkinson/EAGLE/processed_data/
+File name:
+snap_redshfit_box_halodat.hdf5
+e.g. 027_z000p101_100Mpc_1504_halodat.hdf5
+File description:
+File that contains centre of potnetials, GalagyID, TopLeafID and other useful things.
+Link to code:
+https://gitlab.com/Matt_W/my-eagle-scripts/-/blob/master/main_Gal.sh
+Note:
+please use your own username and password.
